@@ -7,13 +7,12 @@
 //
 
 import UIKit
-import AlamofireImage
+
 
 class MovieCell: UITableViewCell {
 
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var posterView: UIImageView!
-    
     @IBOutlet weak var synopsisLabel: UILabel!
     
  
